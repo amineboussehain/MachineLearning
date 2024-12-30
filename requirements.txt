@@ -3,7 +3,7 @@ aiosignal
 altair
 numpy
 pandas
-scikit-learn
+scikit-learn==1.4.2
 matplotlib
 streamlit
 joblib
